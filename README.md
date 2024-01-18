@@ -11,8 +11,8 @@ Also relevant is the [Multi-Threaded Monte Carlo SNP-Set Kernel Association Test
 The associated publication is currently available as a pre-print on bioRxiv. Upon publication in a peer-reviewed venue, the citation below will be updated.
 
       
-GWAS identifies candidate regulators of in planta regeneration in Populus trichocarpa
-Michael F. Nagle, Jialin Yuan, Damanpreet Kaur, Cathleen Ma, Ekaterina Peremyslova, Yuan Jiang, Christopher J. Willig, Greg S. Goralogia, Alexa Niño de Rivera, Megan McEldowney, Amanda Goddard, Anna Magnuson, Wellington Muchero, Li Fuxin, Steven H. Strauss
+**GWAS identifies candidate regulators of in planta regeneration in Populus trichocarpa**<br>
+Michael F. Nagle, Jialin Yuan, Damanpreet Kaur, Cathleen Ma, Ekaterina Peremyslova, Yuan Jiang, Christopher J. Willig, Greg S. Goralogia, Alexa Niño de Rivera, Megan McEldowney, Amanda Goddard, Anna Magnuson, Wellington Muchero, Li Fuxin, Steven H. Strauss<br>
 bioRxiv 2022.06.08.495082; doi: https://doi.org/10.1101/2022.06.08.495082
 
       
