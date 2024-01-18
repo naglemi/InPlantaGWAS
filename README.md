@@ -1,6 +1,6 @@
 # InPlantaGWAS
 
-This repository contains code for a genome-wide association study (GWAS) of _in planta_ regeneration in _Populus trichocarpa_ (poplar). Plant regeneration is typically an important stage of the process of producing genetically engineered plants for research, agriculture, and horticulture. Poplar is an excellent model organism for studying regeneration in trees, and in plants more broadly.
+This repository contains code for a genome-wide association study (GWAS) of _in planta_ regeneration in _Populus trichocarpa_ (poplar). Plant regeneration is typically an important stage of the process of producing genetically engineered plants for research, agriculture, and horticulture. Poplar is an excellent model organism for studying regeneration in trees, and in plants more broadly. Unlike the more common _in vitro_ regeneration methods,_ _in planta_ regeneration avoids the need for sterile conditions and tissue culturing, and may become a more efficient alternative to the more traditional methods.
 
 We performed a GWAS, supported by computer vision phenotyping, to identify genetic associations with regeneration capacity in a large population of wild poplar genotypes. Here, you can find our code for data processing and statistical analysis.
 
